@@ -8,7 +8,7 @@ import "./style.css";
 
 <main className="page__home">
   <div className="container">
-    <h1>Expenses App</h1>
+    <h1>Money App</h1>
   </div>
   
   <div className="home__wrapper">
